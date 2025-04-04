@@ -20,3 +20,7 @@ A code repo for JavaScript course from basics.
     - console.log(typeof null); // object
     
     - console.log(typeof undefined); // undefined
+
+-> DataType Conversion & operations
+
+-> Comparison of DataTypes
