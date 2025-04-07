@@ -13,6 +13,12 @@ A code repo for JavaScript course from basics.
 
 -> DataTypes
 
+    - Primitive ( 7 types ) : String, Number, Boolean, null, undefined, Symbol, BigInt
+
+    - Non-Primitive / Reference : Array, Objects, Functions
+
+    - Stack & Heap Memory
+
     - 'typeof' used to find the type
 
         console.log(typeof 10); // number
@@ -24,3 +30,12 @@ A code repo for JavaScript course from basics.
 -> DataType Conversion & operations
 
 -> Comparison of DataTypes
+
+-> Strings
+
+    - name ="Rajeev" / 'Rajeev'
+
+    - const userName = new String("Rajeev") // Another way of creating string.
+
+    - String methods.
+
