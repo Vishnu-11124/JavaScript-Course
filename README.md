@@ -39,3 +39,16 @@ A code repo for JavaScript course from basics.
 
     - String methods.
 
+-> NUmber and Maths
+
+    -  const balance = new Number(200); //  Specifying that the variable is number.
+
+    -  toString(), toFixed(number), toPrecision(number), toLocaleString('en-IN').
+
+    - Math library and methods
+
+    - Math.random()
+
+-> Dates and Time
+
+
